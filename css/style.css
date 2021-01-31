@@ -1,0 +1,145 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+span{
+    text-decoration: underline;
+}
+img{
+    width: 18%;
+    /* height: 40px; */
+
+}
+.pro{
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+.topcloud{
+    margin-left: 14%;
+}
+.botomcloud{
+    margin-right: 20%;
+}
+.firstcontainer{
+    background-color: #bce6eb;
+}
+h1{
+    margin-top: 90px;
+    font-family: 'Sacramento', cursive;
+    font-size: 550%;
+    font-weight: bold;
+    margin-bottom: 0px;
+    color: #4fb2bdc2;
+}
+h3,h2{
+    color: #4fb2bdc2;
+    /* font-size: 20px; */
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+    margin-top: 0%;
+    font-weight: lighter;
+    /* font-family: 'Merriweather', serif; */
+    color: #40514E;
+    /* text-align: center; */
+    
+    
+}
+.hello{
+    width: 50%;
+    text-align: center;
+    margin:auto;
+}
+.themidlecontainer{
+    
+}
+
+.thebotomcontainer{ background-color: #5c8f95;
+    padding:2rem 1rem;
+    
+}
+
+.skill-row{
+    text-align: left;
+    width: 50%;
+    margin: auto ;
+    /* margin-right: 2px; */
+    font-size: 20px;
+    
+    
+}
+
+.android-im{
+    width: 180px;
+    float: right;
+        margin-right:20px;
+    }
+.all1{
+    width: 180px;
+    float: left;
+    margin-right:20px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+}
+
+.home{
+    margin-top:90px;
+    margin-bottom:90px;
+}
+.skill{
+    margin-top:90px;
+    margin-bottom:90px;
+}
+.contact{
+    margin-top:90px;
+    margin-bottom:90px;
+}
+.btn{
+    border: 2px solid grey;
+    background-color: #4fb2bdc2;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    padding: 8px;
+    margin: 0px;
+    font-size: 29px;
+    /* box-shadow: turquoise; */
+}
+.btn:hover{
+    background-color: #1bdfb4c2;
+    color: white;
+    /* font-weight: lighter; */
+    text-decoration: underline;
+}
+.all2{
+    width: 180;
+}
+a{
+    /* color: #1bdfb4c2; */
+    color: #40514E;
+    margin: 30px;
+    text-decoration: none;
+    font-size: 2rem;
+}
+.copy{
+    color: white;
+
+}
+a:hover{
+    color:rgb(56, 54, 54);
+}
